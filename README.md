@@ -1,5 +1,7 @@
 # AngularService
 
+A simple project to understand how Angular services work. They are used to share data and common methods among components with or without relationship between components.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.1.
 
 ## Development server
